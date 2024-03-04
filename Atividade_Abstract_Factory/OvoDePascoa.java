@@ -1,0 +1,3 @@
+interface OvoDePascoa {
+  void exibirInfo();
+}
