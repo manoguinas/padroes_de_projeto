@@ -1,0 +1,3 @@
+interface FabricaTransporte {
+  Transporte criarTransporte();
+}
